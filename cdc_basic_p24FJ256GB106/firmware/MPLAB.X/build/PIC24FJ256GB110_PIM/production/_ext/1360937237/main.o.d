@@ -1,0 +1,19 @@
+build/PIC24FJ256GB110_PIM/production/_ext/1360937237/main.o:  \
+ ../src/main.c  \
+../src/system_config/exp16/pic24fj256gb110_pim/system.h  \
+ ../../../../../../bsp/exp16/pic24fj256gb110_pim/buttons.h  \
+ ../../../../../../bsp/exp16/pic24fj256gb110_pim/leds.h  \
+ ../../../../../../bsp/exp16/pic24fj256gb110_pim/power.h  \
+ ../src/system_config/exp16/pic24fj256gb110_pim/io_mapping.h  \
+ ../src/usb_config.h  \
+../src/system_config.h  \
+../src/usb_config.h  \
+ ../src/app_device_cdc_basic.h  \
+ ../../../../../../framework/usb/usb_device_cdc.h  \
+ ../../../../../../framework/usb/usb.h  \
+ ../../../../../../framework/usb/usb_common.h  \
+ ../../../../../../framework/usb/usb_ch9.h  \
+ ../../../../../../framework/usb/usb_device.h  \
+ ../../../../../../framework/usb/usb_hal.h  \
+ ../../../../../../framework/usb/usb_hal_pic24f.h  \
+ ../src/app_led_usb_status.h 
